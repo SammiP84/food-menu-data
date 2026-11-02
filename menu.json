@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "name": "Cheese Burger",
+    "category": "Burger",
+    "price": 95,
+    "description": "Beef patty, cheddar, lettuce, tomato and house sauce on a toasted bun.",
+    "rating": 4.5,
+    "inStock": true,
+    "image": "https://raw.githubusercontent.com/SammiP84/food-menu-data/main/images/cheese-burger.png"
+  },
+  {
+    "id": 2,
+    "name": "Chicken Burger",
+    "category": "Burger",
+    "price": 89,
+    "description": "Crumbed chicken breast, slaw and peri-peri mayo.",
+    "rating": 4.3,
+    "inStock": true,
+    "image": "https://raw.githubusercontent.com/SammiP84/food-menu-data/main/images/chicken-burger.png"
+  },
+  {
+    "id": 3,
+    "name": "Veggie Burger",
+    "category": "Burger",
+    "price": 85,
+    "description": "Chickpea and lentil patty with avocado and rocket.",
+    "rating": 4.1,
+    "inStock": true,
+    "image": "https://raw.githubusercontent.com/SammiP84/food-menu-data/main/images/veggie-burger.png"
+  },
+  {
+    "id": 4,
+    "name": "Margherita Pizza",
+    "category": "Pizza",
+    "price": 99,
+    "description": "Tomato base, mozzarella and fresh basil.",
+    "rating": 4.4,
+    "inStock": true,
+    "image": "https://raw.githubusercontent.com/SammiP84/food-menu-data/main/images/margherita-pizza.png"
+  },
+  {
+    "id": 5,
+    "name": "Pepperoni Pizza",
+    "category": "Pizza",
+    "price": 119,
+    "description": "Tomato base, mozzarella and spicy pepperoni.",
+    "rating": 4.6,
+    "inStock": true,
+    "image": "https://raw.githubusercontent.com/SammiP84/food-menu-data/main/images/pepperoni-pizza.png"
+  },
+  {
+    "id": 6,
+    "name": "Vegetarian Pizza",
+    "category": "Pizza",
+    "price": 109,
+    "description": "Peppers, mushrooms, olives, onion and feta.",
+    "rating": 4.2,
+    "inStock": false,
+    "image": "https://raw.githubusercontent.com/SammiP84/food-menu-data/main/images/vegetarian-pizza.png"
+  },
+  {
+    "id": 7,
+    "name": "Spaghetti Bolognese",
+    "category": "Pasta",
+    "price": 105,
+    "description": "Slow-cooked beef and tomato sauce with parmesan.",
+    "rating": 4.4,
+    "inStock": true,
+    "image": "https://raw.githubusercontent.com/SammiP84/food-menu-data/main/images/spaghetti-bolognese.png"
+  },
+  {
+    "id": 8,
+    "name": "Creamy Alfredo",
+    "category": "Pasta",
+    "price": 99,
+    "description": "Fettuccine in a garlic and parmesan cream sauce.",
+    "rating": 4.0,
+    "inStock": true,
+    "image": "https://raw.githubusercontent.com/SammiP84/food-menu-data/main/images/creamy-alfredo.png"
+  },
+  {
+    "id": 9,
+    "name": "Greek Salad",
+    "category": "Salad",
+    "price": 75,
+    "description": "Cucumber, tomato, olives, red onion and feta.",
+    "rating": 4.2,
+    "inStock": true,
+    "image": "https://raw.githubusercontent.com/SammiP84/food-menu-data/main/images/greek-salad.png"
+  },
+  {
+    "id": 10,
+    "name": "Chicken Caesar Salad",
+    "category": "Salad",
+    "price": 85,
+    "description": "Grilled chicken, cos lettuce, croutons and Caesar dressing.",
+    "rating": 4.3,
+    "inStock": true,
+    "image": "https://raw.githubusercontent.com/SammiP84/food-menu-data/main/images/chicken-caesar-salad.png"
+  },
+  {
+    "id": 11,
+    "name": "Chocolate Cake",
+    "category": "Dessert",
+    "price": 55,
+    "description": "Rich chocolate sponge with chocolate ganache.",
+    "rating": 4.7,
+    "inStock": true,
+    "image": "https://raw.githubusercontent.com/SammiP84/food-menu-data/main/images/chocolate-cake.png"
+  },
+  {
+    "id": 12,
+    "name": "Malva Pudding",
+    "category": "Dessert",
+    "price": 50,
+    "description": "Warm baked pudding with apricot jam and custard.",
+    "rating": 4.8,
+    "inStock": true,
+    "image": "https://raw.githubusercontent.com/SammiP84/food-menu-data/main/images/malva-pudding.png"
+  },
+  {
+    "id": 13,
+    "name": "Vanilla Milkshake",
+    "category": "Drinks",
+    "price": 45,
+    "description": "Thick vanilla ice cream shake.",
+    "rating": 4.4,
+    "inStock": true,
+    "image": "https://raw.githubusercontent.com/SammiP84/food-menu-data/main/images/vanilla-milkshake.png"
+  },
+  {
+    "id": 14,
+    "name": "Fresh Orange Juice",
+    "category": "Drinks",
+    "price": 35,
+    "description": "Freshly squeezed oranges.",
+    "rating": 4.1,
+    "inStock": true,
+    "image": "https://raw.githubusercontent.com/SammiP84/food-menu-data/main/images/fresh-orange-juice.png"
+  },
+  {
+    "id": 15,
+    "name": "Iced Coffee",
+    "category": "Drinks",
+    "price": 42,
+    "description": "Cold brew coffee over ice with milk.",
+    "rating": 4.0,
+    "inStock": true,
+    "image": "https://raw.githubusercontent.com/SammiP84/food-menu-data/main/images/iced-coffee.png"
+  },
+  {
+    "id": 16,
+    "name": "Loaded Fries",
+    "category": "Sides",
+    "price": 49,
+    "description": "Crispy fries with cheese sauce and spring onion.",
+    "rating": 4.5,
+    "inStock": true,
+    "image": "https://raw.githubusercontent.com/SammiP84/food-menu-data/main/images/loaded-fries.png"
+  }
+]
